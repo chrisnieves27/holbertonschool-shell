@@ -5,3 +5,4 @@
 4-listmorefiles: List all files (even ones with names beginning with a period character, which are normally hidden)
 5-listfilesdigitonly:  Lists all files, including hidden files, in long format with numeric user and group IDs.
 6-firstdirectory: Creates a directory named my_first_directory in /tmp.i
+7-movethatfile: Moves betty from /tmp/ to /tmp/my_first_directory/.

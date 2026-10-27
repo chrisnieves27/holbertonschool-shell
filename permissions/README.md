@@ -11,3 +11,4 @@
 8-James_Bond: Sets no permissions for the owner and group, and all permissions for other users, on the file hello.
 9-John_Doe: Sets the permissions of the file hello to 753 (rwxr-x-wx).
 10-mirror_permissions: Sets the permissions of hello to match those of olleh.
+11-directories_permissions: Adds execute permission for all users to subdirectories of the current directory.

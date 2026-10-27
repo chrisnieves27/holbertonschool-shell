@@ -17,3 +17,4 @@
 15-lets_move: Moves all files whose names begin with an uppercase letter to /tmp/u/.
 15-lets_move: Moves all files whose names begin with an uppercase letter to /tmp/u/.
 16-clean_emacs: Deletes files ending with ~ in the current working directory.
+17-tree: Creates the welcome/to/school directory tree in the current working directory.

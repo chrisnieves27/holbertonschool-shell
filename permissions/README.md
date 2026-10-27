@@ -6,3 +6,4 @@
 5-execute: Adds execute permission to the owner of the file hello.
 6-multiple_permissions: Adds execute permission to the owner and group owner, and read permission to other users, for the file hello.
 6-multiple_permissions: Adds execute permission to the owner and group owner, and read permission to other users, for the file hello.
+6-multiple_permissions: Adds execute permission to the owner and group owner, and read permission to other users, for the file hello.

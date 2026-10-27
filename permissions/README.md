@@ -16,3 +16,4 @@
 13-change_group: Changes the group owner of the file hello to school.
 14-change_owner_and_group: Changes the owner to vincent and the group to staff for files and directories in the working directory.
 15-symbolic_link_permissions: Changes the owner and group of the symbolic link _hello to vincent and staff without changing its target.
+16-if_only: Changes the owner of hello to vincent only if its current owner is guillaume.

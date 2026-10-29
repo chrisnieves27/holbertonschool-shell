@@ -22,3 +22,4 @@
 20-hiago: Removes all lowercase c and uppercase C characters from standard input.
 20-hiago: Removes all lowercase c and uppercase C characters from standard input.
 21-reverse: Reverses the characters of each line from standard input.
+22-users_and_homes: Displays users and their home directories, sorted by username.

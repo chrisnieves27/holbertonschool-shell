@@ -11,3 +11,4 @@
 10-no_more_js: Deletes regular .js files in the current directory and all subdirectories.
 11-directories: Counts directories and subdirectories, including hidden ones, excluding the current and parent directories.
 11-directories: Counts directories and subdirectories, including hidden ones, excluding the current and parent directories.
+12-newest_files: Displays the 10 newest files in the current directory, one per line, from newest to oldest.

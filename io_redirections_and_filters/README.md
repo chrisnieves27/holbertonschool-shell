@@ -18,3 +18,4 @@
 16-whatsnext: Displays lines containing root and the 3 following lines from /etc/passwd.
 17-hidethisword: Displays lines from /etc/passwd that do not contain the pattern bin.
 18-letteronly: Displays lines starting with a letter from /etc/ssh/sshd_config.
+19-AZ: Replaces A with Z and c with e from standard input.

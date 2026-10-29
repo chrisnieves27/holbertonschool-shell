@@ -19,3 +19,4 @@
 17-hidethisword: Displays lines from /etc/passwd that do not contain the pattern bin.
 18-letteronly: Displays lines starting with a letter from /etc/ssh/sshd_config.
 19-AZ: Replaces A with Z and c with e from standard input.
+20-hiago: Removes all lowercase c and uppercase C characters from standard input.

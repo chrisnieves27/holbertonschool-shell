@@ -8,3 +8,4 @@
 7-file: Creates a file with a special-character filename containing Best School followed by a newline.
 8-cwd_state: Writes the output of ls -la to ls_cwd_content, creating or overwriting the file.
 9-duplicate_last_line: Duplicates the last line of the file iacta.
+10-no_more_js: Deletes regular .js files in the current directory and all subdirectories.

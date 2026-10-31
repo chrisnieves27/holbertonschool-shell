@@ -15,3 +15,4 @@
 9-divide_and_rule: Prints POWER divided by DIVIDE.
 10-love_exponent_breath: Prints BREATH raised to the power LOVE.
 12-combinations: Prints all lowercase two-letter combinations except oo.
+13-print_float: Prints NUM with two decimal places followed by a newline.

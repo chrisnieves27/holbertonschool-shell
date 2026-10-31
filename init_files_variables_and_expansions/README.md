@@ -11,3 +11,4 @@
 5-local_variables: Lists local variables, environment variables, and shell functions.
 6-create_local_variable: Creates the shell variable BEST with the value School.
 7-create_global_variable: Creates the environment variable BEST with the value School.
+8-true_knowledge: Prints the sum of 128 and TRUEKNOWLEDGE.
